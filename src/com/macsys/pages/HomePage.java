@@ -18,6 +18,7 @@ public class HomePage {
         logger=Logger.getLogger("HomePage");
       
        PropertyConfigurator.configure("Log4j.properties");
+       System.out.println("");
 
 	}
 
